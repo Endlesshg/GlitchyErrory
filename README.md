@@ -1,1 +1,1 @@
-![Glitchy_ErroryLogo](https://myoctocat.com/assets/images/base-octocat.svg)
+![Glitchy_ErroryLogo](https://raw.githubusercontent.com/Endlesshg/bf-vs-glich/main/Glitchy_ErroryLogo.png)
